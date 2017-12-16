@@ -16,3 +16,5 @@ If you don't have yarn installed:
 Run `yarn install` then `yarn start`
 
 `yarn` is a packaging system like `npm`, but it's much faster.
+
+This project also supports [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en). A great tool to inspect and debug Redux Apps.
